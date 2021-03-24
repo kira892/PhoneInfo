@@ -35,4 +35,4 @@
  
     [ Aqui va el numero de la victima mas el codigo del pais ]
 
-    [~] Numero (Ejemplo: +52*******):
+    [~] Numero (Ejemplo: +52*******): +52 616 134 4418
