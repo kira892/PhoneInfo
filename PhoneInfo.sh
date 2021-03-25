@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # Obfuscate by Rigo-Jimenez
-# Contacta +529831688162
+# Contacta +52 222 726 8442
 #
 #
 RigoJimenez=$(mktemp)
